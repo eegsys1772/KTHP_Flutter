@@ -1,4 +1,3 @@
-# ratemyfood
 
 A new Flutter project.
 
